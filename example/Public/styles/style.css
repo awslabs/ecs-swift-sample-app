@@ -1,0 +1,11 @@
+.ingredients {
+  text-align: center;
+}
+
+.svg-container {
+  height: 100px;
+}
+
+.svg-container img {
+  max-height: 100px;
+}
